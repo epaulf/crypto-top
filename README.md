@@ -1,6 +1,7 @@
 # crypto_top
 
 >aplicación que despliega el top 20 de las criptomonedas en Coinmarketcap y permite ver el detalle de la criptomoneda seleccionada usando Vue.js
+>puedes seguir paso a paso este ejemplo en :http://www.proflema.com/index.php/2018/05/09/crear-top-criptomonedas-vuejs-2/
 
 ![Preview](preview.png "previewlist")
 ![Preview](previewcryp.png "details")
