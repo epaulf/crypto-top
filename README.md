@@ -2,6 +2,8 @@
 
 >aplicación que despliega el top 20 de las criptomonedas en Coinmarketcap y permite ver el detalle de la criptomoneda seleccionada usando Vue.js
 
+![Preview](preview.png "titulo")
+
 ## Build Setup
 
 ``` bash
